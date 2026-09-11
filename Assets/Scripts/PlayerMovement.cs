@@ -13,7 +13,6 @@ public class PlayerMovement : MonoBehaviour
     private float startPointX;
     private float finalPointX;
 
-
     private void Awake()
     {
         startPointX = 0;
